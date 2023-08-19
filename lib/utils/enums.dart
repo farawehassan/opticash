@@ -1,0 +1,1 @@
+enum ProfileDirection { topToBottom, leftToRiht }

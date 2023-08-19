@@ -1,0 +1,42 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const transparent = Colors.transparent;
+  static const overlayCOlor = Color(0x2D3C5257);
+  static const black = Color(0xFF000000);
+  static const lightBlue = Color(0xFF273240);
+  static const black0A = Color(0xFF0A0707);
+  static const black09 = Color(0xFF090909);
+  static const black10 = Color(0xFF100B0B);
+  static const black100 = Color(0xFF101010);
+  static const deepBlack = Color(0xFF0B0B0B);
+  static const white = Color(0xFFFFFFFF);
+  static const lightGrey = Color(0xFFD9D9D9);
+  static const lightGreen = Color(0xFF46531F);
+  static const darkGreen = Color(0xFF2C3E02);
+  static const green = Color(0xFF627122);
+  static const green2C = Color(0xFF2C3504);
+  static const green13 = Color(0xFF134B23);
+  static const greenA3 = Color(0xFFA3CB00);
+  static const greenDD = Color(0xFFDDDA4C);
+  static const green76 = Color(0xFF769C00);
+  static const greenCD = Color(0xFFCDFF00);
+  static const green74 = Color(0xFF749000);
+  static const greenC1 = Color(0xFFC1D138);
+  static const green27 = Color(0xFF273240);
+  static const grey = Color(0xFFE0E0E0);
+  static const greyF5 = Color(0xFFF5F5F5);
+  static const grey9E = Color(0xFF9E9E9E);
+  static const greyC3 = Color(0xFFC3CADA);
+  static const greyD9 = Color(0xFFD9D9D9);
+  static const greyA7 = Color(0xFFA7A7A7);
+  static const greyEA = Color(0xFFEAEAEA);
+  static const greyF4 = Color(0xFFF4F4F4);
+  static const greyFC = Color(0xFFFCFCFC);
+  static const greyCF = Color(0xFFCFCFCF);
+  static const greyA0 = Color(0xFFA0A0A0);
+  static const red = Color(0xFFFF4040);
+  static const redD8 = Color(0xFFD82C0D);
+  static const amber = Color(0xFFCA8215);
+  static const brown = Color(0xFF131005);
+}
